@@ -1,0 +1,22 @@
+{
+  "version": "1.1.0-*",
+  "description": "TestingConfUtilities Class Library",
+  "authors": [ "mradwan" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "System.Collections": "4.0.10-beta-23019",
+    "System.Linq": "4.0.0-beta-23019",
+    "System.Threading": "4.0.10-beta-23019",
+    "System.Runtime": "4.0.10-beta-23019",
+    "Microsoft.CSharp": "4.0.0-beta-23019",
+    "EntityFramework": "6.1.3",
+    "System.Data.Common": "4.0.0"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
