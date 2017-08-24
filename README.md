@@ -15,7 +15,7 @@
 <p><em><span style="font-size: 9.5pt; color: black;">&nbsp;</span></em><em><span style="font-size: 9.5pt; color: black;"><br /> connectionString</span></em></p>
 <p><span style="font-size: 10pt; color: black;">Type:&nbsp;</span><a href="http://msdn.microsoft.com/en-us/library/system.string.aspx">System.String</a></p>
 <p><span style="font-size: 10pt; color: black;">The connection string of the database that has the desired table.</span></p>
-<p><span style="font-size: 10pt; color: black;">&nbsp;--------------------------------------------------------------------------------------------------------------</span></p>
+<p><span style="font-size: 10pt; color: black;">&nbsp;<hr/></span></p>
 <p><span style="font-size: 15pt; color: #3f529c;">DeleteDataBaseDataAndReseedAllIds&nbsp;</span><strong><span style="font-size: 15pt; color: #3f529c;">Method</span></strong></p>
 <p><span style="font-size: 10pt; color: black;">This method will delete all data in all tables in a given database and also reseed the Ids for all tables, you can use this method to restate a database tables to return the tables to the original state.&nbsp;</span></p>
 <p><strong><span style="font-size: 11.5pt; color: #3f529c;">Syntax</span></strong></p>
@@ -25,7 +25,7 @@
 <p><em><span style="font-size: 9.5pt; color: black;">connectionString</span></em></p>
 <p><span style="font-size: 10pt; color: black;">Type:&nbsp;</span><a href="http://msdn.microsoft.com/en-us/library/system.string.aspx">System.String</a></p>
 <p><span style="font-size: 10pt; color: black;">The connection string of the database that has the desired table.</span></p>
-<p><span style="font-size: 10pt; color: black;">&nbsp;&nbsp;--------------------------------------------------------------------------------------------------------------</span></p>
+<p><span style="font-size: 10pt; color: black;">&nbsp;&nbsp;<hr/></span></p>
 <p><span style="font-size: 15pt; color: #3f529c;">GetValueFromDB</span><span style="font-size: 15pt; color: #3f529c;">&nbsp;</span><strong><span style="font-size: 15pt; color: #3f529c;">Method</span></strong></p>
 <p><span style="font-size: 10pt; color: black;">This method will return a scalar value from any table with a where condition, we can use this method to check for specific value in the DB so this method will be very helpful in the testing scenario when we want to make sure that our CRUD was successed</span><strong><span style="font-size: 11.5pt; color: #3f529c;">&nbsp;</span></strong></p>
 <p><strong><span style="font-size: 11.5pt; color: #3f529c;">Syntax</span></strong></p>
@@ -54,7 +54,7 @@
 <p><span style="font-size: 10pt; color: #3f529c;"><br /> Return Value</span></p>
 <p><span style="font-size: 10pt; color: black;">Type:&nbsp;</span><a href="http://msdn.microsoft.com/en-us/library/system.string.aspx">System.String</a></p>
 <p>&nbsp;<span style="font-size: 10pt; color: black;">The scalar value that we want to retrieve&nbsp;</span></p>
-<p><span style="font-size: 10pt; color: black;">&nbsp;&nbsp;--------------------------------------------------------------------------------------------------------------</span></p>
+<p><span style="font-size: 10pt; color: black;">&nbsp;&nbsp;<hr/></span></p>
 <p><strong><span style="font-size: 15pt; color: #3f529c;">And many other methods&hellip;.</span></strong><strong>&nbsp;</strong></p>
 <p>&nbsp;</p>
 <p><strong>Note:</strong></p>
